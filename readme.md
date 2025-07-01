@@ -11,7 +11,7 @@ Bu proje, **Express.js** tabanlı modüler bir **RESTful API** altyapısı sunar
 - 🧱 Katmanlı mimari: `config`, `controller`, `middleware`, `model`, `route`
 - 🔐 Middleware ile erişim kontrolü
 - 📁 `.env` ile yapılandırılabilir ortam değişkenleri
-- 🌐 RESTful API prensiplerine uygun yapı
+- 🌐 RESTful API prensiplerine uygun yapı  
 
 ---
 
