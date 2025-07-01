@@ -16,6 +16,7 @@ Bu proje, **Express.js** tabanlı modüler bir **RESTful API** altyapısı sunar
 ---
 
 ## 🗂️ Klasör Yapısı
+
 ```
 API/
 ├── config/ # Veritabanı ayarları
@@ -36,8 +37,8 @@ API/
 ├── index.js # Uygulama giriş noktası
 ├── package.json # Bağımlılıklar ve scriptler
 └── readme.md # Proje açıklamaları
-
 ```
+
 ---
 
 ## 🧪 Kullanılan Teknolojiler
@@ -95,3 +96,4 @@ DELETE	/post/:id	Gönderiyi sil
 📝 Lisans
 
 Bu proje MIT lisansı ile açık kaynak olarak sunulmaktadır.
+```
